@@ -5,9 +5,10 @@ HTML5 与 CSS3 实战
     本项目为熟悉 HTML5 与 CSS3 的练手动态网页实战项目
 
 ## 【实现效果】    
+![](https://github.com/chenzeze/phoneShop/blob/master/img/%E6%95%88%E6%9E%9C.gif)
+
 
 ## 【文件介绍】
-![](https://github.com/chenzeze/phoneShop/blob/master/img/%E6%95%88%E6%9E%9C.gif)
 
 ###  /* animate.css */
  专门放动画： class分为三类<br>
